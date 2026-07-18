@@ -86,7 +86,7 @@ checksum = "cf8baf1c55e62ffcace7a9f06f4bd9cd3f0c4beb022d3b367256b91b87513d98"
 [[package]]
 name = "mycelium-core"
 version = "0.464.0"
-source = "git+https://github.com/tzervas/mycelium-core?rev=781d3fcceba82acfe6b0eb46650513bd78a2416b#781d3fcceba82acfe6b0eb46650513bd78a2416b"
+source = "git+https://github.com/tzervas/mycelium-core?rev=46d2515cbd86d2ae4d1365f4adcd2796737e9f0b#46d2515cbd86d2ae4d1365f4adcd2796737e9f0b"
 dependencies = [
  "blake3",
  "serde",
@@ -95,7 +95,7 @@ dependencies = [
 [[package]]
 name = "mycelium-select"
 version = "0.464.0"
-source = "git+https://github.com/tzervas/mycelium-runtime?rev=ab9cee665b620ed80ab74ea61ea639817dc49077#ab9cee665b620ed80ab74ea61ea639817dc49077"
+source = "git+https://github.com/tzervas/mycelium-runtime?rev=487b1e7049ff521b1a6fa33f376245089e7dc1e1#487b1e7049ff521b1a6fa33f376245089e7dc1e1"
 dependencies = [
  "mycelium-core",
  "serde",
